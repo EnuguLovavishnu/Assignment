@@ -1,0 +1,10 @@
+The positive numbers:
+Adding the positive numbers: 236
+The negative numbers:
+Adding the positive numbers: 99
+The negative numbers
+Adding the positive numbers: 220
+The negative numbers
+Adding the positive numbers: 165
+{'BMW': 'red'}
+The car are Brand-name and color: {'ferrari': 'red'}
